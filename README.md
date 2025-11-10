@@ -35,7 +35,7 @@ To build the engineering skillset required to contribute to teams at **Apple** -
 - Security Engineering
 - App Store/iOS Frameworks
 
-This repository is my ,learning log, roadmap, progress log, and proof of disciplined self-learning
+This repository is my learning log, roadmap, progress log, and proof of disciplined self-learning
 
 ---
 
