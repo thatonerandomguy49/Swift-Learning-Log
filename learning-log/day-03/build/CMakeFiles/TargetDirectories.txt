@@ -1,0 +1,3 @@
+/home/iasonas/dev/learning-log/day-03/build/CMakeFiles/pathfinder.dir
+/home/iasonas/dev/learning-log/day-03/build/CMakeFiles/edit_cache.dir
+/home/iasonas/dev/learning-log/day-03/build/CMakeFiles/rebuild_cache.dir
